@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,700;1,400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Spectral:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dynalight:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-crimson-text: "Crimson Text";
+  --font-spectral: Spectral;
+  --font-inter: Inter;
+  --font-roboto: Roboto;
+  --font-dynalight: Dynalight;
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --font-size-xl: 20px;
+  --font-size-base: 16px;
+  --font-size-5xl: 24px;
+  --font-size-11xl: 30px;
+  --font-size-xs: 12px;
+  --font-size-5xs: 8px;
+  --font-size-smi: 13px;
+  --font-size-4xs: 9px;
+  --font-size-mini: 15px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-silver: #bbb;
+  --color-deepskyblue-100: #00aaff;
+  --color-dimgray: #555;
+  --color-darkgray-100: #a8adb8;
+  --color-darkslategray-100: #474747;
+  --color-darkslategray-200: #424242;
+  --color-gray-100: #212121;
+  --color-gray-200: #121212;
+  --color-gray-300: rgba(0, 0, 0, 0.12);
+
+  /* Gaps */
+  --gap-8xs: 5px;
+
+  /* Paddings */
+  --padding-xl: 20px;
+  --padding-lg: 18px;
+  --padding-3xs: 10px;
+  --padding-10xs-5: 2.5px;
+  --padding-11xs-5: 1.5px;
+  --padding-8xs: 5px;
+
+  /* Border radiuses */
+  --br-11xs: 2px;
+  --br-3xs: 10px;
+  --br-10xs: 3px;
+}

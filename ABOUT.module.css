@@ -1,0 +1,861 @@
+.imageIcon {
+  position: absolute;
+  top: calc(50% - 154.1px);
+  left: calc(50% - 180px);
+  width: 360px;
+  height: 167px;
+  object-fit: cover;
+}
+.rectangle {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 82px;
+}
+.home {
+  left: calc(50% - 247px);
+  width: 51px;
+  cursor: pointer;
+}
+.about1,
+.booking,
+.contact,
+.home,
+.portfolio {
+  position: absolute;
+  top: -0.2px;
+  letter-spacing: 1.49px;
+  line-height: 24px;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.about1 {
+  left: calc(50% - 36px);
+  color: var(--color-deepskyblue-100);
+  width: 59px;
+}
+.booking,
+.contact,
+.portfolio {
+  cursor: pointer;
+}
+.contact {
+  left: calc(50% + 165px);
+  font-size: var(--font-size-mini);
+  width: 81px;
+}
+.booking,
+.portfolio {
+  left: calc(50% - 164px);
+  width: 97px;
+}
+.booking {
+  left: calc(50% + 55px);
+  font-size: var(--font-size-mini);
+  width: 79px;
+}
+.frame1,
+.frame2 {
+  position: absolute;
+  width: 100%;
+  top: 29.2px;
+  right: 0;
+  left: 0;
+  height: 24px;
+}
+.frame1 {
+  top: 226px;
+  height: 82px;
+}
+.since2023 {
+  position: absolute;
+  top: 195px;
+  left: calc(50% - 58px);
+  font-size: var(--font-size-xs);
+  letter-spacing: 6px;
+  line-height: 21.6px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 120px;
+}
+.frame,
+.imageIcon1 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 308.2px;
+}
+.imageIcon1 {
+  top: -0.2px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 690px;
+  object-fit: cover;
+}
+.frame4,
+.imageIcon2 {
+  position: absolute;
+  width: 97.24%;
+  top: 0;
+  right: 1.38%;
+  left: 1.38%;
+  height: 690px;
+}
+.imageIcon2 {
+  width: 99.91%;
+  top: -0.19px;
+  right: 0.09%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 472px;
+  object-fit: cover;
+}
+.frame7,
+.imageIcon3 {
+  position: absolute;
+  width: 91.73%;
+  top: 14px;
+  right: 4.13%;
+  left: 4.13%;
+  height: 471.66px;
+}
+.imageIcon3 {
+  width: 99.91%;
+  top: 0.16px;
+  right: 0.09%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 252px;
+  object-fit: cover;
+}
+.frame6,
+.frame8 {
+  position: absolute;
+  width: 91.73%;
+  top: 513.66px;
+  right: 4.13%;
+  left: 4.13%;
+  height: 251.55px;
+}
+.frame6 {
+  width: 33.33%;
+  top: 0;
+  right: 66.67%;
+  left: 0;
+  height: 779.2px;
+}
+.imageIcon4,
+.imageIcon5 {
+  position: absolute;
+  width: 91.65%;
+  top: 13.81px;
+  right: 4.29%;
+  left: 4.05%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 228px;
+  object-fit: cover;
+}
+.imageIcon5 {
+  width: 99.91%;
+  top: -0.25px;
+  right: 0.17%;
+  left: -0.09%;
+  height: 509px;
+}
+.frame10 {
+  position: absolute;
+  width: 91.73%;
+  top: 270.06px;
+  right: 4.13%;
+  left: 4.13%;
+  height: 508.63px;
+}
+.frame9,
+.imageIcon6 {
+  position: absolute;
+  width: 33.33%;
+  top: 0;
+  right: 33.33%;
+  left: 33.33%;
+  height: 792.69px;
+}
+.imageIcon6 {
+  width: 99.91%;
+  top: -0.19px;
+  right: 0;
+  left: 0.09%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 402px;
+  object-fit: cover;
+}
+.frame12,
+.imageIcon7 {
+  position: absolute;
+  width: 91.73%;
+  top: 14px;
+  right: 4.13%;
+  left: 4.13%;
+  height: 401.84px;
+}
+.imageIcon7 {
+  width: 99.91%;
+  top: -0.03px;
+  right: 0;
+  left: 0.09%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 377px;
+  object-fit: cover;
+}
+.frame11,
+.frame13,
+.frame5 {
+  position: absolute;
+  width: 91.73%;
+  top: 443.84px;
+  right: 4.13%;
+  left: 4.13%;
+  height: 377.33px;
+}
+.frame11,
+.frame5 {
+  width: 33.33%;
+  top: 0;
+  right: 0;
+  left: 66.67%;
+  height: 835.17px;
+}
+.frame5 {
+  width: 100%;
+  top: 1237.98px;
+  left: 0;
+}
+.rectangle1,
+.rectangle2,
+.rectangle3 {
+  position: absolute;
+  width: 97.24%;
+  right: 1.38%;
+  left: 1.38%;
+}
+.rectangle1 {
+  top: 2102.8px;
+  background-color: var(--color-silver);
+  height: 1px;
+}
+.rectangle2,
+.rectangle3 {
+  top: 2147.8px;
+  height: 675px;
+}
+.rectangle3 {
+  top: 2866.8px;
+  background-color: var(--color-silver);
+  height: 1px;
+}
+.imageIcon8,
+.viewFullsize {
+  position: absolute;
+  top: -0.36px;
+}
+.imageIcon8 {
+  width: 99.91%;
+  right: 0;
+  left: 0.09%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 566px;
+  object-fit: cover;
+}
+.viewFullsize {
+  left: calc(50% - 0.32px);
+  display: inline-block;
+  width: 49px;
+}
+.frame15 {
+  position: absolute;
+  width: 30.58%;
+  top: 41px;
+  right: 1.38%;
+  left: 68.04%;
+  height: 565.98px;
+}
+.styleApproach {
+  position: absolute;
+  top: -13.36px;
+  left: calc(50% - 116.33px);
+  font-size: var(--font-size-5xl);
+  letter-spacing: 0.49px;
+  line-height: 4.8px;
+  text-transform: uppercase;
+  font-family: var(--font-roboto);
+  color: var(--color-gray-100);
+  text-align: center;
+  display: inline-block;
+  width: 233px;
+}
+.asAnAlternating,
+.enthusiastically,
+.i,
+.iUseA,
+.withOver300 {
+  position: absolute;
+  width: 98.65%;
+  top: 34.64px;
+  left: 0;
+  line-height: 27.2px;
+  display: inline-block;
+}
+.asAnAlternating,
+.enthusiastically,
+.i,
+.withOver300 {
+  width: 99.66%;
+  top: 170.64px;
+}
+.enthusiastically,
+.i,
+.withOver300 {
+  width: 99.79%;
+  top: 306.64px;
+}
+.enthusiastically,
+.i {
+  width: 1.14%;
+  top: 439.64px;
+}
+.enthusiastically {
+  width: 11.16%;
+  left: 1.14%;
+  font-size: var(--font-size-sm);
+}
+.supportMarriageEquality {
+  width: 48.06%;
+  top: 439.64px;
+  left: 12.3%;
+  line-height: 27.2px;
+}
+.onceICreate,
+.supportMarriageEquality,
+.theProcess {
+  position: absolute;
+  display: inline-block;
+}
+.theProcess {
+  top: 508.64px;
+  left: calc(50% - 80.33px);
+  font-size: var(--font-size-5xl);
+  letter-spacing: 0.49px;
+  line-height: 4.8px;
+  text-transform: uppercase;
+  font-family: var(--font-roboto);
+  color: var(--color-gray-100);
+  text-align: center;
+  width: 161px;
+}
+.onceICreate {
+  width: 99.92%;
+  top: 556.64px;
+  left: 0;
+  line-height: 27.2px;
+}
+.frame16 {
+  width: 63.91%;
+  top: 14px;
+  right: 34.71%;
+  height: 662px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslategray-200);
+  font-family: var(--font-crimson-text);
+}
+.frame14,
+.frame16,
+.rectangle4 {
+  position: absolute;
+  left: 1.38%;
+}
+.frame14 {
+  width: 100%;
+  top: 2140.8px;
+  right: -1.38%;
+  height: 690px;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-roboto);
+}
+.rectangle4 {
+  width: 97.24%;
+  top: 2867.8px;
+  right: 1.38%;
+  background-color: var(--color-silver);
+  height: 1px;
+}
+.helloImMeghna {
+  position: absolute;
+  top: 7px;
+  left: calc(50% - 138px);
+  font-size: var(--font-size-5xl);
+  letter-spacing: 0.49px;
+  line-height: 4.8px;
+  text-transform: uppercase;
+  font-family: var(--font-roboto);
+  color: var(--color-gray-100);
+  text-align: center;
+  display: inline-block;
+  width: 276px;
+}
+.cladSometimesIn,
+.photographingWeddingsConstan {
+  position: absolute;
+  width: 99.92%;
+  top: 34.8px;
+  left: 0;
+  line-height: 27.2px;
+  display: inline-block;
+}
+.photographingWeddingsConstan {
+  width: 96.5%;
+  top: 143.8px;
+}
+.iLiveIn {
+  position: absolute;
+  width: 98.33%;
+  top: 225.8px;
+  left: 0;
+}
+.aLittleToo,
+.iLiveIn,
+.iLookForward {
+  line-height: 27.2px;
+  display: inline-block;
+}
+.aLittleToo {
+  position: absolute;
+  width: 8.92%;
+  top: 276.8px;
+  left: 21.17%;
+  color: var(--color-gray-200);
+}
+.iLookForward {
+  width: 30.58%;
+  top: 331.8px;
+  left: 0;
+}
+.frame17,
+.iLookForward,
+.xoxo {
+  position: absolute;
+}
+.xoxo {
+  width: 2.5%;
+  top: 386.8px;
+  left: 0;
+  font-size: var(--font-size-mini);
+  line-height: 27.2px;
+  display: inline-block;
+}
+.frame17 {
+  width: 97.24%;
+  top: 708.8px;
+  right: 1.38%;
+  left: 1.38%;
+  height: 414px;
+  text-align: left;
+  color: var(--color-darkslategray-200);
+}
+.givingBack {
+  position: absolute;
+  top: -13.36px;
+  left: calc(50% - 81px);
+  font-size: var(--font-size-5xl);
+  letter-spacing: 0.49px;
+  line-height: 4.8px;
+  text-transform: uppercase;
+  font-family: var(--font-roboto);
+  display: inline-block;
+  width: 161px;
+}
+.aPortionOf,
+.div,
+.friendsOfThe {
+  position: absolute;
+  line-height: 27.2px;
+  display: inline-block;
+}
+.aPortionOf {
+  top: 35.64px;
+  left: calc(50% - 333px);
+  color: var(--color-darkslategray-200);
+  width: 667px;
+}
+.div,
+.friendsOfThe {
+  top: -0.36px;
+  left: calc(50% - 286px);
+  width: 198px;
+}
+.div {
+  left: calc(50% - 88px);
+  color: var(--color-darkslategray-200);
+  width: 14px;
+}
+.oregonStateParks {
+  left: calc(50% - 74px);
+  width: 199px;
+}
+.div1,
+.oregonStateParks,
+.trailkeepersOfOregon {
+  position: absolute;
+  top: -0.36px;
+  line-height: 27.2px;
+  display: inline-block;
+}
+.div1 {
+  left: calc(50% + 125px);
+  color: var(--color-darkslategray-200);
+  width: 14px;
+}
+.trailkeepersOfOregon {
+  left: calc(50% + 139px);
+  width: 147px;
+}
+.threeRiversHumane {
+  left: calc(50% - 179px);
+  width: 190px;
+}
+.div2,
+.theCatAdoption,
+.threeRiversHumane {
+  position: absolute;
+  top: 26.64px;
+  line-height: 27.2px;
+  display: inline-block;
+}
+.div2 {
+  left: calc(50% + 11px);
+  color: var(--color-darkslategray-200);
+  width: 14px;
+}
+.theCatAdoption {
+  left: calc(50% + 25px);
+  width: 155px;
+}
+.frame19 {
+  position: absolute;
+  width: 100%;
+  top: 91px;
+  right: 0;
+  left: 0;
+  height: 54px;
+  color: var(--color-gray-200);
+}
+.frame18,
+.rectangle5 {
+  position: absolute;
+  width: 97.24%;
+}
+.frame18 {
+  top: 2942.8px;
+  right: 2.76%;
+  left: 0;
+  height: 145px;
+  color: var(--color-gray-100);
+}
+.rectangle5 {
+  top: 64.64px;
+  right: 1.38%;
+  left: 1.38%;
+  background-color: var(--color-silver);
+  height: 1px;
+}
+.imageIcon9 {
+  position: absolute;
+  width: 150%;
+  top: calc(50% - 51px);
+  right: -55.88%;
+  left: 5.88%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 102px;
+  object-fit: cover;
+}
+.viewFullsize1 {
+  position: absolute;
+  width: 37.25%;
+  top: 3.64px;
+  left: 0;
+  line-height: 27.2px;
+  display: inline-block;
+}
+.frame23 {
+  width: 8.36%;
+  top: 0;
+  right: 91.64%;
+  left: 0;
+}
+.frame23,
+.frame24,
+.imageIcon10 {
+  position: absolute;
+  height: 102px;
+  overflow: hidden;
+}
+.imageIcon10 {
+  width: 157.84%;
+  top: calc(50% - 51px);
+  right: -57.84%;
+  left: 0;
+  max-width: 100%;
+  object-fit: cover;
+}
+.frame24 {
+  width: 8.36%;
+  top: 0;
+  right: 81.64%;
+  left: 10%;
+}
+.imageIcon11 {
+  width: 125.49%;
+  top: calc(50% - 51px);
+  right: -25.49%;
+  left: 0;
+  max-width: 100%;
+  object-fit: cover;
+}
+.frame25,
+.imageIcon11,
+.imageIcon12 {
+  position: absolute;
+  overflow: hidden;
+  height: 102px;
+}
+.frame25 {
+  width: 8.36%;
+  top: 0;
+  right: 71.64%;
+  left: 20%;
+}
+.imageIcon12 {
+  width: 150%;
+  top: calc(50% - 51px);
+  right: -50%;
+  left: 0;
+  max-width: 100%;
+  object-fit: cover;
+}
+.frame26 {
+  width: 8.36%;
+  top: 0;
+  right: 61.64%;
+  left: 30%;
+}
+.frame26,
+.frame27,
+.imageIcon13 {
+  position: absolute;
+  height: 102px;
+  overflow: hidden;
+}
+.imageIcon13 {
+  width: 141.18%;
+  top: calc(50% - 51px);
+  right: -41.18%;
+  left: 0;
+  max-width: 100%;
+  object-fit: cover;
+}
+.frame27 {
+  width: 8.36%;
+  top: 0;
+  right: 51.64%;
+  left: 40%;
+}
+.frame28 {
+  width: 8.36%;
+  top: 0;
+  right: 41.64%;
+  left: 50%;
+}
+.frame28,
+.frame29,
+.imageIcon15 {
+  position: absolute;
+  height: 102px;
+  overflow: hidden;
+}
+.imageIcon15 {
+  width: 135.29%;
+  top: calc(50% - 51px);
+  right: -35.29%;
+  left: 0;
+  max-width: 100%;
+  object-fit: cover;
+}
+.frame29 {
+  width: 8.36%;
+  top: 0;
+  right: 31.64%;
+  left: 60%;
+}
+.frame30 {
+  width: 8.36%;
+  top: 0;
+  right: 21.64%;
+  left: 70%;
+}
+.frame30,
+.frame31,
+.frame32,
+.imageIcon17 {
+  position: absolute;
+  height: 102px;
+  overflow: hidden;
+}
+.imageIcon17 {
+  width: 133.33%;
+  top: calc(50% - 51px);
+  right: -33.33%;
+  left: 0;
+  max-width: 100%;
+  object-fit: cover;
+}
+.frame31,
+.frame32 {
+  width: 8.36%;
+  top: 0;
+  right: 11.64%;
+  left: 80%;
+}
+.frame32 {
+  right: 1.64%;
+  left: 90%;
+}
+.frame22 {
+  position: absolute;
+  width: 98.87%;
+  top: 108px;
+  right: -0.24%;
+  left: 1.38%;
+  height: 1px;
+}
+.bengaluruWeddingPhotographer,
+.megnhaPhotography {
+  position: absolute;
+  top: -1.36px;
+  left: calc(50% - 64px);
+  line-height: 23.8px;
+  display: inline-block;
+  width: 128px;
+}
+.bengaluruWeddingPhotographer {
+  top: 21.64px;
+  left: calc(50% - 81px);
+  font-size: var(--font-size-xs);
+  width: 162px;
+}
+.hsrLayoutbengalore560062,
+.xxxXxxXxxDreams {
+  position: absolute;
+  top: 44px;
+  left: calc(50% - 124px);
+  line-height: 23.8px;
+  display: inline-block;
+  width: 262px;
+}
+.hsrLayoutbengalore560062 {
+  top: 67.64px;
+  left: calc(50% - 131px);
+  font-size: var(--font-size-base);
+  line-height: 27.2px;
+  color: var(--color-darkslategray-200);
+  width: 263px;
+}
+.frame34 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 161px;
+  font-size: var(--font-size-sm);
+}
+.pacificNorthwest,
+.seattleSkamania,
+.willametteValley {
+  position: absolute;
+  top: 187.64px;
+  left: calc(50% - 359px);
+  line-height: 23.8px;
+  display: inline-block;
+  width: 719px;
+}
+.seattleSkamania,
+.willametteValley {
+  top: 210.64px;
+  left: calc(50% - 355px);
+  width: 710px;
+}
+.willametteValley {
+  top: 233.64px;
+  left: calc(50% - 383px);
+  width: 766px;
+}
+.frame33 {
+  position: absolute;
+  width: 97.24%;
+  top: 258px;
+  right: 1.38%;
+  left: 1.38%;
+  height: 309px;
+  text-align: center;
+  font-size: var(--font-size-smi);
+  color: var(--color-black);
+}
+.frame20,
+.frame21 {
+  position: absolute;
+  width: 102.83%;
+  top: 48px;
+  right: -1.42%;
+  left: -1.42%;
+  height: 581px;
+}
+.frame20 {
+  width: 97.24%;
+  top: 3061.8px;
+  right: 1.86%;
+  left: 0.89%;
+  height: 629px;
+  text-align: left;
+  font-size: var(--font-size-4xs);
+  color: var(--color-gray-200);
+}
+.frame3 {
+  position: absolute;
+  width: 102.83%;
+  top: 328.2px;
+  right: -1.42%;
+  left: -1.42%;
+  height: 3822.16px;
+  color: #222;
+}
+.about {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 4044px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-crimson-text);
+}

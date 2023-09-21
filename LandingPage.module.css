@@ -1,0 +1,1035 @@
+.imageIcon {
+  position: absolute;
+  top: calc(50% - 154.1px);
+  left: calc(50% - 180px);
+  width: 360px;
+  height: 167px;
+  object-fit: cover;
+}
+.rectangle {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 82px;
+}
+.home {
+  position: absolute;
+  top: -0.2px;
+  left: calc(50% - 247px);
+  letter-spacing: 1.49px;
+  line-height: 24px;
+  text-transform: uppercase;
+  color: var(--color-deepskyblue-100);
+  display: inline-block;
+  width: 51px;
+}
+.about {
+  left: calc(50% - 36px);
+  width: 59px;
+}
+.about,
+.booking,
+.contact,
+.portfolio {
+  position: absolute;
+  top: -0.2px;
+  letter-spacing: 1.49px;
+  line-height: 24px;
+  text-transform: uppercase;
+  display: inline-block;
+  cursor: pointer;
+}
+.contact {
+  left: calc(50% + 165px);
+  font-size: var(--font-size-mini);
+  width: 81px;
+}
+.booking,
+.portfolio {
+  left: calc(50% - 164px);
+  width: 97px;
+}
+.booking {
+  left: calc(50% + 55px);
+  font-size: var(--font-size-mini);
+  width: 79px;
+}
+.frame1,
+.frame2 {
+  position: absolute;
+  width: 100%;
+  top: 29.2px;
+  right: 0;
+  left: 0;
+  height: 24px;
+}
+.frame1 {
+  top: 226px;
+  height: 82px;
+}
+.since2023 {
+  position: absolute;
+  top: 195px;
+  left: calc(50% - 58px);
+  font-size: var(--font-size-xs);
+  letter-spacing: 6px;
+  line-height: 21.6px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 120px;
+}
+.frame,
+.rectangle1 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 308.2px;
+}
+.rectangle1 {
+  background-color: rgba(175, 175, 175, 0.1);
+  height: 878px;
+}
+.imageIcon1 {
+  width: 99.92%;
+  top: calc(50% - 439.4px);
+  right: 0.08%;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.imageIcon1,
+.imageIcon2,
+.rectangle2 {
+  position: absolute;
+  left: 0;
+  height: 878px;
+}
+.rectangle2 {
+  width: 100%;
+  top: 0;
+  right: 0;
+}
+.imageIcon2 {
+  width: 99.92%;
+  top: calc(50% - 439px);
+  right: 0.08%;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame5,
+.frame6,
+.rectangle21 {
+  position: absolute;
+  width: 100%;
+  top: -0.2px;
+  right: 0;
+  left: 0;
+  height: 878px;
+}
+.frame5,
+.rectangle21 {
+  top: 0.2px;
+  height: 878.39px;
+}
+.rectangle21 {
+  width: 3.67%;
+  top: -469.59px;
+  left: 96.33%;
+  background-color: var(--color-gray-300);
+  height: 60px;
+}
+.frame25,
+.rectangle22 {
+  position: absolute;
+  left: 0;
+}
+.rectangle22 {
+  width: 3.67%;
+  top: -469.59px;
+  right: 96.33%;
+  background-color: var(--color-gray-300);
+  height: 60px;
+}
+.frame25 {
+  width: 100%;
+  top: 878.59px;
+  right: 0;
+  height: 1px;
+}
+.frame4 {
+  top: -0.2px;
+  height: 878px;
+}
+.frame4,
+.imageIcon21,
+.rectangle23 {
+  position: absolute;
+  width: 97.24%;
+  right: 1.38%;
+  left: 1.38%;
+}
+.imageIcon21 {
+  top: 1226.8px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 690px;
+  object-fit: cover;
+}
+.rectangle23 {
+  top: 2151.8px;
+  background-color: var(--color-silver);
+  height: 1px;
+}
+.image,
+.imageIcon22,
+.imageIcon23 {
+  position: absolute;
+  width: 20.26%;
+  top: 14.41px;
+  right: 77.39%;
+  left: 2.35%;
+  height: 250px;
+}
+.imageIcon22,
+.imageIcon23 {
+  right: 27.39%;
+  left: 52.35%;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.imageIcon23 {
+  right: 2.35%;
+  left: 77.39%;
+}
+.frame26,
+.rectangle24 {
+  position: absolute;
+  width: 100%;
+  top: 2216.8px;
+  right: 22.85%;
+  left: -22.85%;
+  height: 278px;
+}
+.rectangle24 {
+  width: 97.24%;
+  top: 2524.8px;
+  right: 1.38%;
+  left: 1.38%;
+  background-color: var(--color-silver);
+  height: 1px;
+}
+.imageIcon24 {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 142.5px);
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 430px;
+  object-fit: cover;
+}
+.frame28 {
+  width: 23.36%;
+  top: 0;
+  right: 76.64%;
+  left: 0;
+}
+.frame28,
+.frame29,
+.imageIcon25 {
+  position: absolute;
+  height: 285px;
+  overflow: hidden;
+}
+.imageIcon25 {
+  width: 150.18%;
+  top: calc(50% - 142.09px);
+  right: -50.18%;
+  left: 0;
+  max-width: 100%;
+  object-fit: cover;
+}
+.frame29 {
+  width: 23.36%;
+  top: 0;
+  right: 51.64%;
+  left: 25%;
+}
+.imageIcon26 {
+  width: 128.07%;
+  top: calc(50% - 142.09px);
+  right: -28.07%;
+  left: 0;
+  max-width: 100%;
+  height: 285px;
+  object-fit: cover;
+}
+.frame30,
+.imageIcon26,
+.imageIcon27 {
+  position: absolute;
+  overflow: hidden;
+}
+.frame30 {
+  width: 23.36%;
+  top: 0;
+  right: 26.64%;
+  left: 50%;
+  height: 285px;
+}
+.imageIcon27 {
+  width: 100%;
+  top: calc(50% - 142.5px);
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  height: 356px;
+  object-fit: cover;
+}
+.frame31,
+.imageIcon28 {
+  position: absolute;
+  overflow: hidden;
+  height: 285px;
+}
+.frame31 {
+  width: 23.36%;
+  top: 0;
+  right: 1.64%;
+  left: 75%;
+}
+.imageIcon28 {
+  width: 138.6%;
+  top: calc(50% - 142.09px);
+  right: -38.6%;
+  left: 0;
+  max-width: 100%;
+  object-fit: cover;
+}
+.frame32 {
+  width: 23.36%;
+  top: 305px;
+  right: 76.64%;
+  left: 0;
+}
+.frame32,
+.frame33,
+.imageIcon30 {
+  position: absolute;
+  overflow: hidden;
+  height: 285px;
+}
+.frame33 {
+  width: 23.36%;
+  top: 305px;
+  right: 51.64%;
+  left: 25%;
+}
+.imageIcon30 {
+  width: 162.81%;
+  top: calc(50% - 142.09px);
+  right: -62.81%;
+  left: 0;
+  max-width: 100%;
+  object-fit: cover;
+}
+.frame34 {
+  width: 23.36%;
+  top: 305px;
+  right: 26.64%;
+  left: 50%;
+}
+.frame34,
+.frame35,
+.imageIcon31 {
+  position: absolute;
+  height: 285px;
+  overflow: hidden;
+}
+.imageIcon31 {
+  width: 139.65%;
+  top: calc(50% - 142.09px);
+  right: -39.65%;
+  left: 0;
+  max-width: 100%;
+  object-fit: cover;
+}
+.frame35 {
+  width: 23.36%;
+  top: 305px;
+  right: 1.64%;
+  left: 75%;
+}
+.frame36 {
+  width: 23.36%;
+  top: 610px;
+  right: 76.64%;
+  left: 0;
+}
+.frame36,
+.frame37,
+.imageIcon34 {
+  position: absolute;
+  overflow: hidden;
+  height: 285px;
+}
+.frame37 {
+  width: 23.36%;
+  top: 610px;
+  right: 51.64%;
+  left: 25%;
+}
+.imageIcon34 {
+  width: 143.86%;
+  top: calc(50% - 142.09px);
+  right: -43.86%;
+  left: 0;
+  max-width: 100%;
+  object-fit: cover;
+}
+.frame38 {
+  width: 23.36%;
+  top: 610px;
+  right: 26.64%;
+  left: 50%;
+}
+.frame38,
+.frame39,
+.frame40 {
+  position: absolute;
+  height: 285px;
+  overflow: hidden;
+}
+.frame39 {
+  width: 23.36%;
+  top: 610px;
+  right: 1.64%;
+  left: 75%;
+}
+.frame40 {
+  right: 76.64%;
+  left: 0;
+}
+.frame40,
+.frame41,
+.frame42 {
+  width: 23.36%;
+  top: 915px;
+}
+.frame41 {
+  position: absolute;
+  right: 51.64%;
+  left: 25%;
+  height: 285px;
+  overflow: hidden;
+}
+.frame42 {
+  right: 26.64%;
+  left: 50%;
+}
+.frame42,
+.frame43,
+.imageIcon39 {
+  position: absolute;
+  height: 285px;
+  overflow: hidden;
+}
+.imageIcon39 {
+  width: 149.82%;
+  top: calc(50% - 142.09px);
+  right: -49.82%;
+  left: 0;
+  max-width: 100%;
+  object-fit: cover;
+}
+.frame43 {
+  width: 23.36%;
+  top: 915px;
+  right: 1.64%;
+  left: 75%;
+}
+.frame27,
+.rectangle25 {
+  position: absolute;
+  width: 98.87%;
+  top: 2569.39px;
+  right: -0.24%;
+  left: 1.38%;
+  height: 1px;
+}
+.rectangle25 {
+  width: 97.24%;
+  top: 4051.8px;
+  right: 1.38%;
+  background-color: var(--color-silver);
+}
+.imageIcon40 {
+  position: absolute;
+  width: 89.14%;
+  top: 14.41px;
+  right: 5.35%;
+  left: 5.51%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 412px;
+  object-fit: cover;
+}
+.weddings {
+  position: absolute;
+  top: 453.41px;
+  left: calc(50% - 41.25px);
+  line-height: 27.2px;
+  display: inline-block;
+  width: 83px;
+}
+.frame45,
+.imageIcon41 {
+  position: absolute;
+  width: 25%;
+  top: 0;
+  right: 75%;
+  left: 0;
+  height: 494.75px;
+}
+.imageIcon41 {
+  width: 89.14%;
+  top: 14.41px;
+  right: 5.19%;
+  left: 5.67%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 412px;
+  object-fit: cover;
+}
+.elopements {
+  position: absolute;
+  top: 453.41px;
+  left: calc(50% - 49.75px);
+  line-height: 27.2px;
+  display: inline-block;
+  width: 99px;
+}
+.frame46 {
+  position: absolute;
+  width: 25%;
+  top: 0;
+  right: 50%;
+  left: 25%;
+  height: 494.75px;
+  font-size: var(--font-size-base);
+}
+.engagements {
+  position: absolute;
+  top: 453.41px;
+  left: calc(50% - 56.25px);
+  line-height: 27.2px;
+  display: inline-block;
+  width: 113px;
+}
+.frame47 {
+  position: absolute;
+  width: 25%;
+  top: 0;
+  right: 25%;
+  left: 50%;
+  height: 494.75px;
+}
+.portraits {
+  position: absolute;
+  top: 453.41px;
+  left: calc(50% - 41.75px);
+  line-height: 27.2px;
+  display: inline-block;
+  width: 83px;
+}
+.frame44,
+.frame48 {
+  position: absolute;
+  width: 25%;
+  top: 0;
+  right: 0;
+  left: 75%;
+  height: 494.75px;
+}
+.frame44 {
+  width: 100%;
+  top: 4171.39px;
+  left: 0;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-200);
+}
+.imageIcon44,
+.rectangle26 {
+  position: absolute;
+  width: 97.24%;
+  right: 1.38%;
+  left: 1.38%;
+}
+.rectangle26 {
+  top: 4695.8px;
+  background-color: var(--color-silver);
+  height: 1px;
+}
+.imageIcon44 {
+  top: 4740.8px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 991px;
+  object-fit: cover;
+}
+.welcome {
+  position: absolute;
+  top: 23.41px;
+  left: calc(50% - 78.99px);
+  font-size: var(--font-size-11xl);
+  letter-spacing: 0.49px;
+  line-height: 6px;
+  text-transform: uppercase;
+  font-family: var(--font-roboto);
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 157px;
+}
+.basedInThe,
+.since2023Ara,
+.vibrantAwardWinningWedding {
+  position: absolute;
+  line-height: 27.2px;
+  display: inline-block;
+}
+.vibrantAwardWinningWedding {
+  top: 73.41px;
+  left: calc(50% - 342.99px);
+  font-family: var(--font-dynalight);
+  width: 686px;
+}
+.basedInThe,
+.since2023Ara {
+  top: 132.41px;
+  left: calc(50% - 496.99px);
+  width: 994px;
+}
+.basedInThe {
+  top: 264.41px;
+  left: calc(50% - 363.99px);
+  width: 728px;
+}
+.frame49 {
+  position: absolute;
+  width: 80.58%;
+  top: 906.39px;
+  right: 9.71%;
+  left: 9.71%;
+  height: 292px;
+}
+.araWasEverything,
+.priyanshu,
+.recentAwards {
+  position: absolute;
+  top: 1947.8px;
+  left: calc(50% - 391px);
+  line-height: 27.2px;
+  display: inline-block;
+  width: 782px;
+}
+.priyanshu,
+.recentAwards {
+  top: 2076.8px;
+  left: calc(50% - 21px);
+  font-size: var(--font-size-mini);
+  width: 73px;
+}
+.recentAwards {
+  top: 2179.8px;
+  left: calc(50% - 126px);
+  font-size: var(--font-size-11xl);
+  letter-spacing: 0.49px;
+  line-height: 6px;
+  text-transform: uppercase;
+  font-family: var(--font-roboto);
+  color: var(--color-gray-100);
+  width: 252px;
+}
+.meghnasWorkIs,
+.priyanshu1 {
+  position: absolute;
+  line-height: 27.2px;
+  display: inline-block;
+}
+.meghnasWorkIs {
+  width: 99.46%;
+  top: 3.41px;
+  left: 0.02%;
+}
+.priyanshu1 {
+  top: 162.41px;
+  left: calc(50% - 36.99px);
+  font-size: var(--font-size-mini);
+  text-align: center;
+  width: 73px;
+}
+.frame50 {
+  position: absolute;
+  width: 80.58%;
+  top: 3817.39px;
+  right: 9.71%;
+  left: 9.71%;
+  height: 190px;
+  text-align: left;
+}
+.collections,
+.grandOrTiny {
+  position: absolute;
+  display: inline-block;
+}
+.collections {
+  top: -16.59px;
+  left: calc(50% - 108px);
+  letter-spacing: 0.49px;
+  line-height: 6px;
+  text-transform: uppercase;
+  width: 215px;
+}
+.grandOrTiny {
+  top: 33.41px;
+  left: calc(50% - 309px);
+  font-size: var(--font-size-base);
+  line-height: 27.2px;
+  font-family: var(--font-crimson-text);
+  color: var(--color-darkslategray-200);
+  width: 618px;
+}
+.frame51 {
+  position: absolute;
+  width: 97.24%;
+  top: 4096.39px;
+  right: 1.38%;
+  left: 1.38%;
+  height: 61px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-roboto);
+}
+.meghnaIsTrue,
+.rakibul {
+  position: absolute;
+  line-height: 27.2px;
+  display: inline-block;
+}
+.meghnaIsTrue {
+  width: 98.96%;
+  top: 3.47px;
+  left: 0.02%;
+}
+.rakibul {
+  top: 81.47px;
+  left: calc(50% - 48.98px);
+  font-size: var(--font-size-mini);
+  text-align: center;
+  width: 97px;
+}
+.frame52 {
+  position: absolute;
+  width: 80.58%;
+  top: 5760.33px;
+  right: 9.71%;
+  left: 9.71%;
+  height: 109px;
+  text-align: left;
+}
+.frame3 {
+  position: absolute;
+  width: 102.83%;
+  top: 328.2px;
+  right: -1.42%;
+  left: -1.42%;
+  height: 5883.33px;
+  color: var(--color-darkslategray-200);
+}
+.frame54 {
+  position: absolute;
+  top: -23.53px;
+  left: calc(50% - 48px);
+  width: 96px;
+  height: 96px;
+  overflow: hidden;
+}
+.rectangle27 {
+  position: absolute;
+  width: 97.24%;
+  top: 65.47px;
+  right: 1.38%;
+  left: 1.38%;
+  background-color: var(--color-silver);
+  height: 1px;
+}
+.imageIcon45 {
+  position: absolute;
+  width: 150%;
+  top: calc(50% - 50.53px);
+  right: -50%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 102px;
+  object-fit: cover;
+}
+.viewFullsize {
+  position: absolute;
+  width: 37.25%;
+  top: 4.47px;
+  left: 0;
+  line-height: 27.2px;
+  display: inline-block;
+}
+.frame57,
+.imageIcon46 {
+  position: absolute;
+  left: 0;
+  overflow: hidden;
+  height: 102px;
+}
+.frame57 {
+  width: 8.36%;
+  top: 0;
+  right: 91.64%;
+}
+.imageIcon46 {
+  width: 157.84%;
+  top: calc(50% - 50.53px);
+  right: -57.84%;
+  max-width: 100%;
+  object-fit: cover;
+}
+.frame58 {
+  width: 8.36%;
+  top: 0;
+  right: 81.64%;
+  left: 10%;
+}
+.frame58,
+.frame59,
+.imageIcon47 {
+  position: absolute;
+  height: 102px;
+  overflow: hidden;
+}
+.imageIcon47 {
+  width: 125.49%;
+  top: calc(50% - 50.53px);
+  right: -25.49%;
+  left: 0;
+  max-width: 100%;
+  object-fit: cover;
+}
+.frame59 {
+  width: 8.36%;
+  top: 0;
+  right: 71.64%;
+  left: 20%;
+}
+.frame60 {
+  width: 8.36%;
+  top: 0;
+  right: 61.64%;
+  left: 30%;
+}
+.frame60,
+.frame61,
+.imageIcon49 {
+  position: absolute;
+  height: 102px;
+  overflow: hidden;
+}
+.imageIcon49 {
+  width: 141.18%;
+  top: calc(50% - 50.53px);
+  right: -41.18%;
+  left: 0;
+  max-width: 100%;
+  object-fit: cover;
+}
+.frame61 {
+  width: 8.36%;
+  top: 0;
+  right: 51.64%;
+  left: 40%;
+}
+.frame62 {
+  width: 8.36%;
+  top: 0;
+  right: 41.64%;
+  left: 50%;
+}
+.frame62,
+.frame63,
+.imageIcon51 {
+  position: absolute;
+  height: 102px;
+  overflow: hidden;
+}
+.imageIcon51 {
+  width: 135.29%;
+  top: calc(50% - 50.53px);
+  right: -35.29%;
+  left: 0;
+  max-width: 100%;
+  object-fit: cover;
+}
+.frame63 {
+  width: 8.36%;
+  top: 0;
+  right: 31.64%;
+  left: 60%;
+}
+.frame64 {
+  width: 8.36%;
+  top: 0;
+  right: 21.64%;
+  left: 70%;
+}
+.frame64,
+.frame65,
+.frame66,
+.imageIcon53 {
+  position: absolute;
+  height: 102px;
+  overflow: hidden;
+}
+.imageIcon53 {
+  width: 133.33%;
+  top: calc(50% - 50.53px);
+  right: -33.33%;
+  left: 0;
+  max-width: 100%;
+  object-fit: cover;
+}
+.frame65,
+.frame66 {
+  width: 8.36%;
+  top: 0;
+  right: 11.64%;
+  left: 80%;
+}
+.frame66 {
+  right: 1.64%;
+  left: 90%;
+}
+.frame56 {
+  position: absolute;
+  width: 98.87%;
+  top: 108px;
+  right: -0.24%;
+  left: 1.38%;
+  height: 1px;
+}
+.bengaluruWeddingPhotographer,
+.meghnaPhotography {
+  position: absolute;
+  top: -0.53px;
+  left: calc(50% - 64px);
+  line-height: 23.8px;
+  display: inline-block;
+  width: 128px;
+}
+.bengaluruWeddingPhotographer {
+  top: 22.47px;
+  left: calc(50% - 81px);
+  font-size: var(--font-size-xs);
+  width: 162px;
+}
+.hsrLayoutbengalore560062,
+.xxxXxxXxxDreams {
+  position: absolute;
+  top: 44px;
+  left: calc(50% - 112px);
+  line-height: 23.8px;
+  display: inline-block;
+  width: 232px;
+}
+.hsrLayoutbengalore560062 {
+  top: 68.47px;
+  left: calc(50% - 131px);
+  font-size: var(--font-size-base);
+  line-height: 27.2px;
+  color: var(--color-darkslategray-200);
+  width: 263px;
+}
+.frame68 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 161px;
+  font-size: var(--font-size-sm);
+}
+.pacificNorthwest,
+.seattleSkamania,
+.willametteValley {
+  position: absolute;
+  top: 188.47px;
+  left: calc(50% - 359px);
+  line-height: 23.8px;
+  display: inline-block;
+  width: 719px;
+}
+.seattleSkamania,
+.willametteValley {
+  top: 211.47px;
+  left: calc(50% - 355px);
+  width: 710px;
+}
+.willametteValley {
+  top: 234.47px;
+  left: calc(50% - 383px);
+  width: 766px;
+}
+.frame67 {
+  position: absolute;
+  width: 97.24%;
+  top: 258px;
+  right: 1.38%;
+  left: 1.38%;
+  height: 309px;
+  text-align: center;
+  font-size: var(--font-size-smi);
+  color: var(--color-black);
+}
+.frame53,
+.frame55 {
+  position: absolute;
+  width: 102.83%;
+  top: 48px;
+  right: -1.42%;
+  left: -1.42%;
+  height: 581px;
+}
+.frame53 {
+  width: 100%;
+  top: 6177px;
+  right: 0;
+  left: 0;
+  height: 629px;
+  text-align: left;
+  font-size: var(--font-size-4xs);
+  color: var(--color-gray-200);
+}
+.landingPage {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 6765px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-crimson-text);
+}
